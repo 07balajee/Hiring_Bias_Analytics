@@ -1,0 +1,27 @@
+{
+  "industryAdoption": [
+    { "year": "2015", "percentage": 8 },
+    { "year": "2016", "percentage": 12 },
+    { "year": "2017", "percentage": 18 },
+    { "year": "2018", "percentage": 27 },
+    { "year": "2019", "percentage": 38 },
+    { "year": "2020", "percentage": 52 },
+    { "year": "2021", "percentage": 65 },
+    { "year": "2022", "percentage": 73 },
+    { "year": "2023", "percentage": 79 },
+    { "year": "2024", "percentage": 86 }
+  ],
+  "companiesUsingAI": [
+    { "industry": "Technology", "percentage": 92 },
+    { "industry": "Finance", "percentage": 78 },
+    { "industry": "Healthcare", "percentage": 65 },
+    { "industry": "Retail", "percentage": 71 },
+    { "industry": "Manufacturing", "percentage": 58 }
+  ],
+  "ethicalRisks": [
+    { "name": "Algorithmic Bias", "percentage": 35 },
+    { "name": "Lack of Transparency", "percentage": 28 },
+    { "name": "Data Privacy", "percentage": 22 },
+    { "name": "Accountability Issues", "percentage": 15 }
+  ]
+}
