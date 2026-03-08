@@ -1,7 +1,6 @@
 import Navigation from '@/components/Navigation';
 import StakeholderSection from '@/components/StakeholderSection';
 import EthicalDecision from '@/components/EthicalDecision';
-import QRCodeSection from '@/components/QRCodeSection';
 import { AlertTriangle, TrendingUp, Shield, Users } from 'lucide-react';
 import Link from 'next/link';
 
@@ -114,9 +113,6 @@ export default function Home() {
 
       {/* Ethical Decision Section */}
       <EthicalDecision />
-
-      {/* QR Code Section */}
-      <QRCodeSection />
 
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-8">
